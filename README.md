@@ -19,7 +19,7 @@ Projeto de Attrition que é capaz de prever a possibilidade de um funcionário s
 |
 ├── notebooks          <- Cadernos Jupyter.
 │
-├── imagens            <- Imagem do README                       
+├── imagens            <- Imagem do projeto                       
 │
 |   └──src             <- Código-fonte para uso neste projeto.
 |      │
