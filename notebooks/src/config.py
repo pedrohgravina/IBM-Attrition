@@ -14,5 +14,4 @@ PASTA_MODELOS = PASTA_PROJETO / "modelos"
 MODELO_FINAL = PASTA_MODELOS / "logistic_regression_rus.joblib"
 
 # coloque abaixo outros caminhos que você julgar necessário
-PASTA_RELATORIOS = PASTA_PROJETO / "relatorios"
-PASTA_IMAGENS = PASTA_RELATORIOS / "imagens"
+PASTA_IMAGENS = PASTA_PROJETO / "imagens"
