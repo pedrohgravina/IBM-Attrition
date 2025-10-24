@@ -1,6 +1,6 @@
 # Projeto de Attrition
 
-Projeto de Attrition que é capaz de prever a possibilidade de um funcionário sair de uma empresa, junto de seu percentual. Projeto feito por mim, [Pedro Henrique Sampaio](https://github.com/pedrohgravina?tab=repositories)
+Projeto de Attrition que é capaz de prever a possibilidade de um funcionário sair de uma empresa, junto de seu percentual. Projeto feito por mim, [Pedro Henrique Sampaio](https://github.com/pedrohgravina/IBM-Attrition?tab=readme-ov-file)
 
 ![imagem](imagens/imagem.jpg)
 
