@@ -39,7 +39,7 @@ Projeto de Attrition que é capaz de prever a possibilidade de um funcionário s
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone https://github.com/pedrohgravina?tab=repositories
+    git clone git@github.com:pedrohgravina/IBM-Attrition.git
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
